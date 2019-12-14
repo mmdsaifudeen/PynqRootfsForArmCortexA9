@@ -1,0 +1,6 @@
+http://www.mediafire.com/file/vq4537ckijk6bal/pynq_rootfs_arm_v2.3.zip/file
+
+
+
+put "make PREBUILT=/media/saif/BackUp/Projects/Inputs/ZC706_Pynq/bionic-arm-2-3.img BOARDS=ZC706"
+
